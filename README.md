@@ -1,0 +1,4 @@
+这是来自GoogleNDK内的Clang，仅支持在具有aarch64架构的Linux设备上运行
+
+Glibc需要2.32及以上
+如果可以，你们可以测试构建完整的NDK
